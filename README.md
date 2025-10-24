@@ -2,7 +2,7 @@
 
 **Project idea:** A Python grade calculator (reads student marks and outputs a grade).
 
-**Team members:** Your Name
+**Team members:** Anagha.C 
 
 **Project goal:** Build a small Python script that calculates student grades, document it, add simple tests, and demonstrate Agile workflow using GitHub Issues and a Kanban board.
 
