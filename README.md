@@ -22,4 +22,4 @@
 - pytest (for tests)
 
 ## Contributors
-- Your Name — Developer, tests, documentation
+- Anagha.C — Developer, tests, documentation
